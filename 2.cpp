@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main()//without class
 {
   cout<<"HELLO WORLD";
 }
