@@ -1,3 +1,4 @@
+//write program to enter the value from user and perform function add and sub.
 #include<iostream>
 using namespace std;
 class myclass
