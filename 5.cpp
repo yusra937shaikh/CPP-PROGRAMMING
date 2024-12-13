@@ -1,3 +1,4 @@
+//write a c++ program to calculate area of circle and parameter of the circle .enter the value from user.
 #include<iostream>
 using namespace std;
 class calculation
@@ -15,7 +16,7 @@ class calculation
   }
   void pm()
   {
-     cout<<endl<<"AREA OF CIRCLE IS:"<<2*3.14*r;
+     cout<<endl<<"APARAMETER OF CIRCLE IS:"<<2*3.14*r;
   }
 };
 int main()
