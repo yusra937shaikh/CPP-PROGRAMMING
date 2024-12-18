@@ -1,3 +1,4 @@
+//write a cpp program to take a 2 variables from user and swap that 2 values without taking third variable.
 #include<iostream>
 using namespace std;
 class swp
